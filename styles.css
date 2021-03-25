@@ -8,10 +8,6 @@ body {
   width: 100%;
 }
 
-.sticky + .content {
-  padding-top: 38px;
-}
-
 .content {
   margin: 2%;
 }
