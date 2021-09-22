@@ -1,0 +1,61 @@
+body {
+  background-color: white;
+  height: 100%;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.content {
+  margin: 2%;
+}
+
+.header-title {
+  margin-bottom: -10px;
+}
+
+.card {
+  padding: 5%;
+  margin: 2%;
+}
+
+.nav-button {
+  width: 20% !important;
+}
+
+.navbutton:hover {
+  background-color: white;
+}
+
+.container {
+  width: 100% !important;
+}
+
+.text-one {
+  display: inline-flex;
+  width: 70% !important;
+  align-self: center;
+}
+
+.behind-all {
+  z-index:-1;
+}
+
+.layer-1 {
+  z-index: 1;
+}
+
+.layer-2 {
+  z-index: 2;
+}
+
+.layer-3 {
+  z-index: 3;
+}
+
+.above-all {
+  z-index: 4;
+}
